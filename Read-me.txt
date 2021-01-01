@@ -1,0 +1,1 @@
+This project is as of right now a clap sensor that goes to an led strip, However i plan on adding voice controls later on with spotify compatibility.
